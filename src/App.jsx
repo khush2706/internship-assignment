@@ -44,11 +44,14 @@ function App() {
             <Navbar activeTab={activeTab} setActiveTab={setActiveTab} Tabs={Tabs} />
             <Graph activeTab={activeTab} />
             <Insights />
-            <FlexContainer items="center" justify="space-between" style={{ marginBottom: '50px' }}>
+            <FlexContainer
+              items="flex-start"
+              justify="space-between"
+              style={{ marginBottom: '50px' }}>
               <LeaderBoard />
               <Traffic />
             </FlexContainer>
-            <FlexContainer items="center" justify="space-between">
+            <FlexContainer items="flex-start" justify="space-between">
               <Location />
               <Behaviour />
             </FlexContainer>
