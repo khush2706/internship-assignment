@@ -2,10 +2,21 @@ import { Grid, NavWrapper, WrapperSm } from '../styles/Containers'
 import leaderboardData from '../data/leaderboardData.json'
 import { Button } from '../styles/Button'
 import { textTruncate, addCommas } from '../utils'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 const LeaderBoard = () => {
   const [showAll, setShowAll] = useState(false)
+  const sortLeaderboardData = (data) => {
+    data.sort((a, b) => {
+      return b.invites - a.invites
+    })
+    return data
+  }
+  const [sortedLeaderboard, setSortedLeaderboard] = useState()
+
+  useEffect(() => {
+    setSortedLeaderboard(sortLeaderboardData(leaderboardData))
+  }, [leaderboardData])
   return (
     <>
       <WrapperSm className={showAll ? 'showAll' : ''}>
@@ -17,7 +28,7 @@ const LeaderBoard = () => {
             <h2 className="header">Email</h2>
             <h2 className="header">Friends Invited</h2>
             <h2 className="header">Country</h2>
-            {leaderboardData.map((data) => {
+            {sortedLeaderboard?.map((data) => {
               return (
                 <>
                   <div>{textTruncate(data.email, 15)}</div>
