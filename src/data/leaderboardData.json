@@ -1,0 +1,27 @@
+[
+    {
+        "email": "paula.suarez@con.es",
+        "invites": 6500,
+        "country": "USA"
+    },
+    {
+        "email": "aaron.michael@arg.org",
+        "invites": 1200,
+        "country": "UK"
+    },
+    {
+        "email": "jeremy.runner@aol.com",
+        "invites": 900,
+        "country": "Australia"
+    },
+    {
+        "email": "khushboo.chaturvedi@example.com",
+        "invites": 1900,
+        "country": "India"
+    },
+    {
+        "email": "john.doe@example.com",
+        "invites": 800,
+        "country": "India"
+    }
+]

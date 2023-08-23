@@ -1,0 +1,60 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "number": 30000,
+      "src": "https://flagcdn.com/24x18/us.png"
+    },
+    {
+      "name": "Germany",
+      "number": 20000,
+      "src": "https://flagcdn.com/24x18/de.png"
+    },
+    {
+      "name": "Netherlands",
+      "number": 10000,
+      "src": "https://flagcdn.com/24x18/nl.png"
+    },
+    {
+      "name": "India",
+      "number": 5000,
+      "src": "https://flagcdn.com/24x18/in.png"
+    },
+    {
+      "name": "Japan",
+      "number": 3000,
+      "src": "https://flagcdn.com/24x18/jp.png"
+    },
+    {
+      "name": "Other",
+      "number": 2000,
+      "src": "🌏"
+    }
+  ],
+  "cities": [
+    {
+      "name": "New York",
+      "number": 8000
+    },
+    {
+      "name": "Los Angeles",
+      "number": 6500
+    },
+    {
+      "name": "Chicago",
+      "number": 4000
+    },
+    {
+      "name": "Houston",
+      "number": 5500
+    },
+    {
+      "name": "Miami",
+      "number": 3000
+    },
+    {
+      "name": "Other",
+      "number": 2000
+    }
+  ]
+}

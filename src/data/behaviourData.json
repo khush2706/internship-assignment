@@ -1,0 +1,54 @@
+{
+  "browsers": [
+    {
+      "name": "United States",
+      "number": 30000
+    },
+    {
+      "name": "Germany",
+      "number": 20000
+    },
+    {
+      "name": "Netherlands",
+      "number": 10000
+    },
+    {
+      "name": "India",
+      "number": 5000
+    },
+    {
+      "name": "Japan",
+      "number": 3000
+    },
+    {
+      "name": "Other",
+      "number": 2000
+    }
+  ],
+  "decides": [
+    {
+      "name": "New York",
+      "number": 8000
+    },
+    {
+      "name": "Los Angeles",
+      "number": 6500
+    },
+    {
+      "name": "Chicago",
+      "number": 4000
+    },
+    {
+      "name": "Houston",
+      "number": 5500
+    },
+    {
+      "name": "Miami",
+      "number": 3000
+    },
+    {
+      "name": "Other",
+      "number": 2000
+    }
+  ]
+}

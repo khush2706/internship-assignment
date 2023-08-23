@@ -1,0 +1,55 @@
+{
+  "platform": [
+    {
+      "name": "Google",
+      "number": 30000
+    },
+    {
+      "name": "Facebook",
+      "number": 20000
+    },
+    {
+      "name": "Amazon",
+      "number": 10000
+    },
+    {
+      "name": "Apple",
+      "number": 5000
+    },
+    {
+      "name": "Microsoft",
+      "number": 3000
+    },
+    {
+      "name": "Other",
+      "number": 2000
+    }
+  ],
+
+  "cities": [
+    {
+      "name": "New York",
+      "number": 8000
+    },
+    {
+      "name": "Los Angeles",
+      "number": 6500
+    },
+    {
+      "name": "Chicago",
+      "number": 4000
+    },
+    {
+      "name": "Houston",
+      "number": 5500
+    },
+    {
+      "name": "Miami",
+      "number": 3000
+    },
+    {
+      "name": "Other",
+      "number": 2000
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "dayData": [
+    {
+      "timeStamp": "00:00",
+      "signups": 5
+    },
+    {
+      "timeStamp": "01:00",
+      "signups": 8
+    },
+    {
+      "timeStamp": "02:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "03:00",
+      "signups": 7
+    },
+    {
+      "timeStamp": "04:00",
+      "signups": 9
+    },
+    {
+      "timeStamp": "05:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "06:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "07:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "08:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "09:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "10:00",
+      "signups": 20
+    },
+    {
+      "timeStamp": "11:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "12:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "13:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "14:00",
+      "signups": 16
+    },
+    {
+      "timeStamp": "15:00",
+      "signups": 22
+    },
+    {
+      "timeStamp": "16:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "17:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "18:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "19:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "20:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "21:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "22:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "23:00",
+      "signups": 6
+    }
+  ],
+  "hourData": [
+    {
+      "timeStamp": "00:00",
+      "signups": 5
+    },
+    {
+      "timeStamp": "01:00",
+      "signups": 8
+    },
+    {
+      "timeStamp": "02:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "03:00",
+      "signups": 7
+    },
+    {
+      "timeStamp": "04:00",
+      "signups": 9
+    },
+    {
+      "timeStamp": "05:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "06:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "07:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "08:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "09:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "10:00",
+      "signups": 20
+    },
+    {
+      "timeStamp": "11:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "12:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "13:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "14:00",
+      "signups": 16
+    },
+    {
+      "timeStamp": "15:00",
+      "signups": 22
+    },
+    {
+      "timeStamp": "16:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "17:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "18:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "19:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "20:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "21:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "22:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "23:00",
+      "signups": 6
+    },
+    {
+      "timeStamp": "24:00",
+      "signups": 5
+    },
+    {
+      "timeStamp": "25:00",
+      "signups": 8
+    },
+    {
+      "timeStamp": "26:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "27:00",
+      "signups": 7
+    },
+    {
+      "timeStamp": "28:00",
+      "signups": 9
+    },
+    {
+      "timeStamp": "29:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "30:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "31:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "32:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "33:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "34:00",
+      "signups": 20
+    },
+    {
+      "timeStamp": "35:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "36:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "37:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "38:00",
+      "signups": 16
+    },
+    {
+      "timeStamp": "39:00",
+      "signups": 22
+    },
+    {
+      "timeStamp": "40:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "41:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "42:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "43:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "44:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "45:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "46:00",
+      "signups": 10
+    },
+    {
+      "timeStamp": "47:00",
+      "signups": 6
+    },
+    {
+      "timeStamp": "48:00",
+      "signups": 5
+    },
+    {
+      "timeStamp": "49:00",
+      "signups": 8
+    },
+    {
+      "timeStamp": "50:00",
+      "signups": 12
+    },
+    {
+      "timeStamp": "51:00",
+      "signups": 7
+    },
+    {
+      "timeStamp": "52:00",
+      "signups": 9
+    },
+    {
+      "timeStamp": "53:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "54:00",
+      "signups": 18
+    },
+    {
+      "timeStamp": "55:00",
+      "signups": 25
+    },
+    {
+      "timeStamp": "56:00",
+      "signups": 30
+    },
+    {
+      "timeStamp": "57:00",
+      "signups": 28
+    },
+    {
+      "timeStamp": "58:00",
+      "signups": 20
+    },
+    {
+      "timeStamp": "59:00",
+      "signups": 15
+    },
+    {
+      "timeStamp": "60:00",
+      "signups": 10
+    }
+  ],
+  "monthlyData": [
+    {
+      "timeStamp": "Day 1",
+      "signups": 10
+    },
+    {
+      "timeStamp": "Day 2",
+      "signups": 20
+    },
+    {
+      "timeStamp": "Day 3",
+      "signups": 15
+    },
+    {
+      "timeStamp": "Day 4",
+      "signups": 25
+    },
+    {
+      "timeStamp": "Day 5",
+      "signups": 18
+    },
+    {
+      "timeStamp": "Day 6",
+      "signups": 30
+    },
+    {
+      "timeStamp": "Day 7",
+      "signups": 22
+    },
+    {
+      "timeStamp": "Day 8",
+      "signups": 28
+    },
+    {
+      "timeStamp": "Day 9",
+      "signups": 32
+    },
+    {
+      "timeStamp": "Day 10",
+      "signups": 45
+    },
+    {
+      "timeStamp": "Day 11",
+      "signups": 40
+    },
+    {
+      "timeStamp": "Day 12",
+      "signups": 55
+    },
+    {
+      "timeStamp": "Day 13",
+      "signups": 50
+    },
+    {
+      "timeStamp": "Day 14",
+      "signups": 65
+    },
+    {
+      "timeStamp": "Day 15",
+      "signups": 60
+    },
+    {
+      "timeStamp": "Day 16",
+      "signups": 70
+    },
+    {
+      "timeStamp": "Day 17",
+      "signups": 75
+    },
+    {
+      "timeStamp": "Day 18",
+      "signups": 80
+    },
+    {
+      "timeStamp": "Day 19",
+      "signups": 90
+    },
+    {
+      "timeStamp": "Day 20",
+      "signups": 85
+    },
+    {
+      "timeStamp": "Day 21",
+      "signups": 100
+    },
+    {
+      "timeStamp": "Day 22",
+      "signups": 95
+    },
+    {
+      "timeStamp": "Day 23",
+      "signups": 110
+    },
+    {
+      "timeStamp": "Day 24",
+      "signups": 105
+    },
+    {
+      "timeStamp": "Day 25",
+      "signups": 120
+    },
+    {
+      "timeStamp": "Day 26",
+      "signups": 115
+    },
+    {
+      "timeStamp": "Day 27",
+      "signups": 130
+    },
+    {
+      "timeStamp": "Day 28",
+      "signups": 125
+    },
+    {
+      "timeStamp": "Day 29",
+      "signups": 140
+    },
+    {
+      "timeStamp": "Day 30",
+      "signups": 135
+    }
+  ],
+  "biMonthlyData":[
+    {
+        "timeStamp": "1st Fortnight",
+        "signups": 100
+    },
+    {
+        "timeStamp": "2nd Fortnight",
+        "signups": 130
+    },
+    {
+        "timeStamp": "3rd Fortnight",
+        "signups": 80
+    },
+    {
+        "timeStamp": "4th Fortnight",
+        "signups": 237
+    }
+  ]
+}
